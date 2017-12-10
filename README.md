@@ -1,0 +1,1 @@
+This is an AWS Lambda function to invite people to the Slack when they complete the typeform.
